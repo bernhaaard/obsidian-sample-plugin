@@ -6,3 +6,21 @@ available in the app when your plugin is enabled.
 If your plugin does not need CSS, delete this file.
 
 */
+
+.project-modal {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0px 12px;
+}
+
+.container {
+  display: flex;
+}
+
+.modal-column {
+  flex: 1;
+  padding: 12px;
+}
+
+/* Adjust padding and margins as needed */

@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "add-new-project-plugin",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "This is a plugin that adds a button to add a new project with template.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
